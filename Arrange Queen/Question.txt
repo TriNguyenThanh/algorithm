@@ -1,0 +1,1 @@
+Xét bàn cờ tổng quát kích thước nxn. Một quân hậu trên bàn cờ có thể ă được các quân khác nằm tại các ô cùng hàng, cùng cột hoặc cùng đường chéo. Hãy tìm 
