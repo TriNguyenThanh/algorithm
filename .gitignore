@@ -2,3 +2,4 @@ test/
 *.in
 *.out
 .gitignore
+.vscode
